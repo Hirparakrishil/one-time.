@@ -1,9 +1,13 @@
 # Sales Region Performance
 
 #Group Members:
+
 Prajapati Khush - Ku2407u751 
+
 Patel Jeelkumar - Ku2407u408
+
 Hirpara Krishil - Ku2407u417
+
 Vanjara Rohit - Ku2407u437
 
 This project analyzes sales trends and performance metrics for various regions in a sales dataset. By performing an in-depth analysis, we uncover insights into the total sales, profit margins, units sold, and regional contributions. The analysis includes visualizations that display trends over time, regional performance summaries, and the correlation between key metrics.
