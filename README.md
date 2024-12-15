@@ -1,6 +1,6 @@
 # Sales Region Performance
 
-Group Members:
+#Group Members:
 Prajapati Khush - Ku2407u751 
 Patel Jeelkumar - Ku2407u408
 Hirpara Krishil - Ku2407u417
