@@ -61,7 +61,7 @@ The script identifies the top and bottom performing regions based on total sales
 5. Correlation of Metrics
 A correlation matrix is computed to explore the relationship between sales, profit, and units sold. The results are visualized using a heatmap to identify any significant correlations between these metrics.
 
-Output
+Output-
 After running the script, you will get:
 
 Printed summaries of regional performance metrics (total sales, profit, units sold).
